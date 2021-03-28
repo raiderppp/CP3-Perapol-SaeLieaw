@@ -1,0 +1,7 @@
+print('Calculator')
+firstNumber = int(input('Please input first number : '))
+secondNumber= int(input('Please input second number : '))
+print(firstNumber, '+', secondNumber, '=', firstNumber+secondNumber)
+print(firstNumber, '-', secondNumber, '=', firstNumber-secondNumber)
+print(firstNumber, '*', secondNumber, '=', firstNumber*secondNumber)
+print(firstNumber, '/', secondNumber, '=', firstNumber/secondNumber)
